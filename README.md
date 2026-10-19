@@ -1,38 +1,37 @@
 # Hi, I’m Jamal 👋
 
-### Facilities & Operations Leader | Capital Project Management | PMP®, CMCA®, AMS®
+### Facilities & Operations Leader | Capital Projects & Infrastructure | PMP®, CMCA®, AMS®
 
-I’m a facilities and operations leader with 25 years of experience in building engineering, property operations, team leadership, and capital project delivery.
+I bring 25 years of experience in building engineering, facilities operations, team leadership, and capital project delivery.
 
-My experience includes overseeing operations at The Towers Condominium, a LEED Gold-certified, 619-unit property spanning two 14-story buildings in Washington, DC.
+At The Towers Condominium Association, my experience includes overseeing building operations and coordinating major improvements at a LEED Gold-certified, 619-unit community spanning two 14-story buildings in Washington, DC.
 
-I bring a hands-on engineering foundation and management experience to complex building operations, infrastructure improvements, and construction in occupied environments.
+My work connects hands-on engineering knowledge with capital planning, contractor oversight, budget management, and construction coordination in occupied buildings.
 
 ## 🔧 Professional Focus
 
-- 🏢 Facilities Management & Building Operations
-- 🏗️ Capital Planning & Project Management
-- ⚙️ Mechanical Systems & Building Automation
-- 📊 Budget Oversight & Contract Administration
-- 🛠️ Preventive Maintenance & Asset Reliability
-- 🌱 Energy Efficiency & Building Performance
-- 🤝 Team Leadership & Stakeholder Coordination
+- Facilities & Engineering Leadership
+- Capital Planning & Project Delivery
+- Mechanical & Electrical Infrastructure
+- Building Automation & Energy Efficiency
+- Budgeting, Contracts & Vendor Management
+- Preventive Maintenance & Asset Reliability
+- Team Leadership & Stakeholder Communication
 
-## 🏗️ Project Experience
+## 🏗️ Capital Project Highlights
 
-- **Garage Restoration:** $4.8 million project involving phased construction, contractor coordination, and continued building access.
-- **Elevator Modernization:** Coordination of a multi-year modernization across two occupied residential towers.
-- **Façade Restoration:** Oversight of contractor coordination, resident communications, project logistics, and change orders.
-- **Mechanical Infrastructure:** Experience with chiller replacements, cooling tower improvements, and building automation.
+- **Garage Restoration — $4.8 Million:** Phased construction, parking and access coordination, and resident communications.
+- **East & West Maglev Chillers:** Replacement of two major central plant chillers.
+- **East & West Switchgear:** Critical electrical infrastructure replacement.
+- **Elevator Modernization:** Multi-year project coordination across both towers.
+- **Façade & Masonry Restoration:** Building envelope repairs, contractor coordination, and change management.
+- **Lobby Renovation:** Common-area interior improvements.
+- **Additional Infrastructure:** Air handlers, roof exhaust fans, boiler breeching, water booster pumps, heat exchangers, emergency lighting, and garage storm ejector pumps.
+- **Site & Amenities:** Paving, concrete and curbing, tennis court resurfacing, and pool improvements.
 
-## 🚀 Portfolio in Development
+## 📂 Project Portfolio
 
-I’m building a collection of practical resources and project case studies focused on:
-
-- Capital project planning and delivery
-- Preventive maintenance and equipment tracking
-- Vendor performance and contract management
-- Facilities reporting and operational improvement
+[Explore my Capital Projects & Infrastructure Portfolio](https://github.com/jamalpmpai/capital-project-case-studies)
 
 ## 🎓 Certifications & Licenses
 
@@ -43,11 +42,20 @@ I’m building a collection of practical resources and project case studies focu
 - EPA Universal Certification
 - OSHA 10 & 30
 - Certified Pool Operator — CPO®
+- DC Notary Public
+
+## 🚀 Portfolio Development
+
+Future additions will include detailed project case studies and practical tools for maintenance planning, vendor tracking, and capital project reporting.
 
 ## 📰 Professional Feature
 
 Featured in *Building Performance + Construction* magazine:
 
-[Jamal Wimbish — The Towers Condominium Association](https://www.bpcmag.com/case-studies/jamal-wimbish-the-towers-condominium-association/)
+[Read my professional feature](https://www.bpcmag.com/case-studies/jamal-wimbish-the-towers-condominium-association/)
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/jamal-w-70a08272/)
 
 📍 Washington, DC Metropolitan Area
